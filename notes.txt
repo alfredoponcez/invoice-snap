@@ -1,0 +1,2 @@
+C:\Users\Alfredo\AppData\Local\Android\sdk\emulator\emulator -list-avds
+C:\Users\Alfredo\AppData\Local\Android\sdk\emulator\emulator -avd Pixel_6_Pro_API_30 -debug-all
